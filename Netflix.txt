@@ -1,2 +1,9 @@
 0.0.0.0 netflix.com
 0.0.0.0 nflx.net
+0.0.0 netflix.com
+0.0.0.0 nflxext.com
+0.0.0.0 nflximg.net
+0.0.0.0 nflximg.com
+0.0.0.0 nflxsearch.net
+0.0.0.0 nflxso.net
+0.0.0.0 nflxvideo.net
